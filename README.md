@@ -1,3 +1,3 @@
 # API_JS_Projects
 
-1)Dictionary Application
+1) Dictionary Application
